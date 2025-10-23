@@ -79,6 +79,43 @@ VARIABLE NAMING RULES
  X = 10
 
 5.Variable names cant be Python keywords - cant use reserved words
+python reserved words 
+and
+as
+assert
+async
+await
+break
+class
+continue
+def
+del
+elif
+else
+except
+False
+finally
+for
+from
+global
+if
+import
+in
+is
+lambda
+None
+nonlocal
+not
+or
+pass
+raise
+return
+True
+try
+while
+with
+yield
+
 
 N/B:- It is good practice to give variables meaningful names
 -> name = "Jane"
